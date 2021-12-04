@@ -1,0 +1,67 @@
+﻿  Main.cpp
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(181,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(188,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(487,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(752,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(762,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(771,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(935,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(958,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(981,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1004,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1098,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1131,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1189,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1212,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1235,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1258,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1310,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(711,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1193): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DeleteData<_Ty>(Type,Adress,std::string)"
+          with
+          [
+              _Ty=OneRoom,
+              Type=OneRoom
+          ]
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(720,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(831,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Main.cpp(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "void ShowData<OneRoom>(Type,std::string,int)"
+          with
+          [
+              Type=OneRoom
+          ]
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(833,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(834,11): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(836,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(853,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(608,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Main.cpp(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "void RedactData<OneRoom>(Type,std::string)"
+          with
+          [
+              Type=OneRoom
+          ]
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(622,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(630,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(665,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Main.cpp(176): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DeleteData<OneRoom>(Type,std::string)"
+          with
+          [
+              Type=OneRoom
+          ]
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(675,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(684,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(886,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Main.cpp(317): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FindData<OneRoom>(Type,std::string)"
+          with
+          [
+              Type=OneRoom
+          ]
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(896,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1055,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Main.cpp(347): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FilterPrice<OneRoom>(Type,std::string)"
+          with
+          [
+              Type=OneRoom
+          ]
+C:\Users\chirv\source\repos\Курсовая4\Курсовая4\Functions.h(1062,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Курсовая4.vcxproj -> C:\Users\chirv\source\repos\Курсовая4\Debug\Курсовая4.exe
